@@ -14,6 +14,9 @@ aside{
     width: 20%;
     flex-shrink: 0;
 
+        position: sticky;
+        top: 6rem;
+
     h3 {
         margin: 0;
         font-weight: 500;
@@ -26,7 +29,7 @@ aside{
         margin-top: 1.5rem;
         margin-bottom: 1.5rem;
         
-        a{
+        a {
             padding: 0.5rem 0.75rem;
             border-radius: 0.5rem;
             text-decoration: inherit;
